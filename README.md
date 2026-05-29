@@ -1,2 +1,4 @@
 # Coding-Projects
-This is my first Repository
+This is my first GIT Repository
+<br>
+Author - Utkarsh Priyanshu
